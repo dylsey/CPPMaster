@@ -1,0 +1,62 @@
+#include <iostream>
+#include <string>
+#include <fstream>
+#include <algorithm>
+
+int main()
+{
+	Unit Testing 
+	/*
+	* take intro to game programming "is like programming 3"
+	* 
+	* Waterfall Model
+	* one stage leads to the next. 
+	* no going back. 
+	*	
+	* V-Model
+	* testing phase after each development phase
+	* 
+	* Spiral Model
+	* 4 distinct stages
+	* not quite sure how to define what the goals are
+	* each time you spiral around the model, you have new ideas
+	* but each spiral is very time and resource heavy
+	* 
+	* Agile Model/Method
+	* SCRUM -- 
+	* Spiral with smaller spiral
+	* Made up of "sprints" 
+	* each sprint deploys something model
+	* then you review the product 
+	* then you start another sprint 
+	* 
+	* usually 2-4 weeks
+	* 
+	* UNIT TESTING
+	* smallest chunk of a program that does not depend on other code.
+	*
+	need to know what you want the output to be in order to test it 
+	*
+	does the unit test give you the outcome you want or expect
+
+	unit testing is usually in a seperate projecct 
+
+	create a unit test -> have to tell the unit test what project its referencing 
+	* 
+	* modify properties to make sure the test knows
+	* VC++ Directories-> where the header files are located
+	* Linker -> Input -> Additional Dependencies(Class.obj) ->.OBJ filefrom the debug directory 
+	* Linker -> General -> Additional Library Dependencies -- debug folder? 
+	* 
+	* try and test multiple	possibilities of user or situational things that may happen
+	it also may be wise to test the extremes of the program
+	it also may me wise to test to see if the program can handle the wrong input
+
+	Assert:: is the library that is used to test the program
+	* 
+	* 
+	*/
+
+
+
+}
