@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Minesweeper"
+    "\\Minesweeper",
+    "\\PowerPlays",
+    "\\PowerPlays\\PowerPlay",
+    "\\PowerPlays\\PowerPlay\\PP2.Orme"
   ],
-  "SelectedNode": "\\Minesweeper\\Source.cpp",
+  "SelectedNode": "\\PowerPlays\\PowerPlay\\PP2.Orme\\Source.cpp",
   "PreviewInSolutionExplorer": false
 }
