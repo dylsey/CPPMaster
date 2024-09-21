@@ -1,0 +1,56 @@
+
+	stl Iterators
+	Pointers with privledges
+	Iterators purpose is to use Algorithms
+	.begin() -> pointer that returns the beginning item/element within a sequential container
+	.end() -> pointer to a "character?" at the end that has not been defined 
+		.end() is usually used to compare wether or not a type is returned that matches the container type. 
+		 used to check if you have reached the end of a container
+	iterator has to be dereferenced if you want to value it is pointing to 
+
+	std::vector<int> v{ 1, 2, 3, 4, 5 };
+	std::vector<int>::iterator vIter;//actual way to call an iterator
+	auto vIter2{ v.begin() }; //auto gives us syntatic sugar
+
+	
+	std::cout << *vIter2;
+
+	stl::Algorithm
+		some of them eliminate the need for traditional loops
+		they are more efficient than traditional loops
+		they use iterators to access the elements of the container
+
+		#include <algorithm>
+		
+	Lambdas
+	quick and dirty way to define a function
+	often used for STL algorithms
+	[capture clause] (parameters) -> return-type
+	{
+		definition of method
+	}
+
+	[] - capture clause
+		[] - no capture
+
+			what is the difference between these 2??
+
+		1. [&] - capture by reference things that exist before you get to the Lambda
+
+
+		2. [=] - capture by value - things that exist before you get to the Lambda
+
+
+		[=, &x] - capture by value, except x is captured by reference
+		[&, x] - capture by reference, except x is captured by value
+
+	() - parameters
+		- parameters are optional
+		- if you have parameters, you must include
+
+	-> - return type -- return type is optional unless the return type has been initlalized previously
+
+	{} - definition of method
+
+
+}
