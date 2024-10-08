@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\DEV\\C\u002B\u002B\\CPSC 2376\\Classroom\\ClassRoom.Notes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C39D5625-4081-4F7F-8EEE-272960980EDB}|STL.Iterators.and.Algorithms\\STL.Iterators.and.Algorithms.vcxproj|C:\\DEV\\C\u002B\u002B\\CPSC 2376\\Classroom\\ClassRoom.Notes\\STL.Iterators.and.Algorithms\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C39D5625-4081-4F7F-8EEE-272960980EDB}|STL.Iterators.and.Algorithms\\STL.Iterators.and.Algorithms.vcxproj|solutionrelative:STL.Iterators.and.Algorithms\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{28AF5739-3F8D-49B6-8B5A-18456A0FFB55}|Inheritance\\Inheritance.vcxproj|C:\\DEV\\C\u002B\u002B\\CPSC 2376\\Classroom\\ClassRoom.Notes\\Inheritance\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{28AF5739-3F8D-49B6-8B5A-18456A0FFB55}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C39D5625-4081-4F7F-8EEE-272960980EDB}|STL.Iterators.and.Algorithms\\STL.Iterators.and.Algorithms.vcxproj|C:\\DEV\\C\u002B\u002B\\CPSC 2376\\Classroom\\ClassRoom.Notes\\STL.Iterators.and.Algorithms\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C39D5625-4081-4F7F-8EEE-272960980EDB}|STL.Iterators.and.Algorithms\\STL.Iterators.and.Algorithms.vcxproj|solutionrelative:STL.Iterators.and.Algorithms\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{28AF5739-3F8D-49B6-8B5A-18456A0FFB55}|Inheritance\\Inheritance.vcxproj|C:\\DEV\\C\u002B\u002B\\CPSC 2376\\Classroom\\ClassRoom.Notes\\Inheritance\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28AF5739-3F8D-49B6-8B5A-18456A0FFB55}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +17,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "DockedWidth": 244,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,40 +38,32 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Text.txt",
-              "DocumentMoniker": "C:\\DEV\\C\u002B\u002B\\CPSC 2376\\Classroom\\ClassRoom.Notes\\STL.Iterators.and.Algorithms\\Text.txt",
-              "RelativeDocumentMoniker": "STL.Iterators.and.Algorithms\\Text.txt",
-              "ToolTip": "C:\\DEV\\C\u002B\u002B\\CPSC 2376\\Classroom\\ClassRoom.Notes\\STL.Iterators.and.Algorithms\\Text.txt",
-              "RelativeToolTip": "STL.Iterators.and.Algorithms\\Text.txt",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-17T16:15:53.567Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Text.txt",
+              "DocumentMoniker": "C:\\DEV\\C\u002B\u002B\\CPSC 2376\\Classroom\\ClassRoom.Notes\\Inheritance\\Text.txt",
+              "RelativeDocumentMoniker": "Inheritance\\Text.txt",
+              "ToolTip": "C:\\DEV\\C\u002B\u002B\\CPSC 2376\\Classroom\\ClassRoom.Notes\\Inheritance\\Text.txt",
+              "RelativeToolTip": "Inheritance\\Text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-03T15:52:25.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\DEV\\C\u002B\u002B\\CPSC 2376\\Classroom\\ClassRoom.Notes\\STL.Iterators.and.Algorithms\\Source.cpp",
-              "RelativeDocumentMoniker": "STL.Iterators.and.Algorithms\\Source.cpp",
-              "ToolTip": "C:\\DEV\\C\u002B\u002B\\CPSC 2376\\Classroom\\ClassRoom.Notes\\STL.Iterators.and.Algorithms\\Source.cpp",
-              "RelativeToolTip": "STL.Iterators.and.Algorithms\\Source.cpp",
-              "ViewState": "AgIAABAAAAAAAAAAAAAhwCoAAAAGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\DEV\\C\u002B\u002B\\CPSC 2376\\Classroom\\ClassRoom.Notes\\Inheritance\\Source.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\Source.cpp",
+              "ToolTip": "C:\\DEV\\C\u002B\u002B\\CPSC 2376\\Classroom\\ClassRoom.Notes\\Inheritance\\Source.cpp",
+              "RelativeToolTip": "Inheritance\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-17T15:55:00.079Z",
+              "WhenOpened": "2024-10-03T15:49:34.195Z",
               "EditorCaption": ""
             }
           ]

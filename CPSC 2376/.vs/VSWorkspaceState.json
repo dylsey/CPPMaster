@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Minesweeper",
     "\\PowerPlays",
-    "\\PowerPlays\\Classroom Learning",
     "\\PowerPlays\\PowerPlay",
-    "\\PowerPlays\\PowerPlay\\PP2.Orme",
-    "\\PowerPlays\\PowerPlay\\PP3.Unit.Test"
+    "\\PowerPlays\\PowerPlay\\PP7.Inheritance.and.Abstract.Classes"
   ],
+  "SelectedNode": "\\PowerPlays\\PowerPlay\\PowerPlays.sln",
   "PreviewInSolutionExplorer": false
 }
