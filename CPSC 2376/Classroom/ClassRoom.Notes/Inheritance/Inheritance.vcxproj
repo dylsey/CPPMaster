@@ -128,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Inheritance.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Text.txt" />
